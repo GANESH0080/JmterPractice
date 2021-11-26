@@ -1,0 +1,373 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1602500648624,1164,/GnC.POS/-571,200,OK,Thread Group 1-6,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,1156,0,857
+1602500648621,1164,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,3721,145,6,6,null,1156,17,857
+1602500647983,1891,/GnC.POS/-571,200,OK,Thread Group 1-4,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,1891,0,1499
+1602500647982,1891,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,3721,145,6,6,null,1891,4,1499
+1602500647311,2575,/GnC.POS/-571,200,OK,Thread Group 1-2,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,2575,0,2172
+1602500647310,2575,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,3721,145,6,6,null,2575,4,2172
+1602500647640,2272,/GnC.POS/-571,200,OK,Thread Group 1-3,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,2272,0,1841
+1602500647637,2272,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,3721,145,6,6,null,2272,5,1841
+1602500647101,2818,/GnC.POS/-571,200,OK,Thread Group 1-1,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,2818,0,2380
+1602500646973,2818,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3721,145,6,6,null,2818,128,2380
+1602500648296,1626,/GnC.POS/-571,200,OK,Thread Group 1-5,text,true,,3721,145,6,6,https://test.cogitate.us/GnC.POS/?Message=MSG0004,1626,0,1186
+1602500648295,1626,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,3721,145,6,6,null,1626,3,1186
+1602500649803,2454,/GnC.POS/-581,200,OK,Thread Group 1-6,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,421,0,0
+1602500649803,422,/GnC.POS/-581-0,302,Found,Thread Group 1-6,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,421,0,0
+1602500650231,2026,/GnC.POS/-581-1,200,OK,Thread Group 1-6,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,398,0,0
+1602500649878,2806,/GnC.POS/-581,200,OK,Thread Group 1-4,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,726,0,0
+1602500649878,726,/GnC.POS/-581-0,302,Found,Thread Group 1-4,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,726,0,0
+1602500650606,2078,/GnC.POS/-581-1,200,OK,Thread Group 1-4,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,365,0,0
+1602500652260,508,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-6,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,493,0,0
+1602500649802,2962,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,853489,1788,6,6,null,914,11,0
+1602500649921,2856,/GnC.POS/-581,200,OK,Thread Group 1-1,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,685,0,0
+1602500649921,685,/GnC.POS/-581-0,302,Found,Thread Group 1-1,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,685,0,0
+1602500650607,2170,/GnC.POS/-581-1,200,OK,Thread Group 1-1,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,416,0,0
+1602500649891,3289,/GnC.POS/-581,200,OK,Thread Group 1-2,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,714,0,0
+1602500649891,714,/GnC.POS/-581-0,302,Found,Thread Group 1-2,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,714,0,0
+1602500650609,2571,/GnC.POS/-581-1,200,OK,Thread Group 1-2,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,869,0,0
+1602500652686,503,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-4,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,489,0,0
+1602500649877,3309,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,853489,1788,6,6,null,1215,9,0
+1602500649925,3351,/GnC.POS/-581,200,OK,Thread Group 1-5,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,683,0,0
+1602500649925,683,/GnC.POS/-581-0,302,Found,Thread Group 1-5,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,683,0,0
+1602500650610,2666,/GnC.POS/-581-1,200,OK,Thread Group 1-5,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,659,0,0
+1602500649916,3366,/GnC.POS/-581,200,OK,Thread Group 1-3,text,true,,832991,928,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,709,0,0
+1602500649916,709,/GnC.POS/-581-0,302,Found,Thread Group 1-3,text,true,,740,580,6,6,https://test.cogitate.us/GnC.POS/,709,0,0
+1602500650627,2655,/GnC.POS/-581-1,200,OK,Thread Group 1-3,text,true,,832251,348,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,690,0,0
+1602500652784,513,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-1,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,504,0,0
+1602500649921,3369,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,853489,1788,6,6,null,1189,12,0
+1602500653278,465,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-5,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,456,0,0
+1602500649925,3816,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,853489,1788,6,6,null,1139,6,0
+1602500653285,496,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-3,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,487,0,0
+1602500649915,3862,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,853489,1788,6,6,null,1196,9,0
+1602500653182,784,/GnC.POS/ApplicationStatus-582,200,OK,Thread Group 1-2,text,true,,20498,860,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus,776,0,0
+1602500649890,4073,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,853489,1788,6,6,null,1490,8,0
+1602500657887,665,/GnC.POS/Home-602,200,OK,Thread Group 1-6,text,true,,90039,838,6,6,https://test.cogitate.us/GnC.POS/Home,617,0,0
+1602500652775,665,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,90039,838,6,6,null,617,5172,0
+1602500658342,603,/GnC.POS/Home-602,200,OK,Thread Group 1-4,text,true,,90042,838,6,6,https://test.cogitate.us/GnC.POS/Home,568,0,0
+1602500653196,603,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,90042,838,6,6,null,568,5163,0
+1602500658433,754,/GnC.POS/Home-602,200,OK,Thread Group 1-1,text,true,,90036,838,6,6,https://test.cogitate.us/GnC.POS/Home,723,0,0
+1602500653302,754,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,90036,838,6,6,null,723,5143,0
+1602500658914,756,/GnC.POS/Home-602,200,OK,Thread Group 1-5,text,true,,90041,838,6,6,https://test.cogitate.us/GnC.POS/Home,700,0,0
+1602500653747,756,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,90041,838,6,6,null,700,5183,0
+1602500658980,701,/GnC.POS/Home-602,200,OK,Thread Group 1-3,text,true,,90035,838,6,6,https://test.cogitate.us/GnC.POS/Home,661,0,0
+1602500653786,701,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,90035,838,6,6,null,661,5210,0
+1602500659153,587,/GnC.POS/Home-602,200,OK,Thread Group 1-2,text,true,,90040,838,6,6,https://test.cogitate.us/GnC.POS/Home,559,0,0
+1602500653972,587,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,90040,838,6,6,null,559,5193,0
+1602500658613,2448,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-6,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,806,0,0
+1602500658613,806,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-6,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,806,0,0
+1602500659420,504,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-6,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,504,0,0
+1602500659925,1136,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-6,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,1121,0,0
+1602500658964,2228,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-4,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,772,0,0
+1602500658964,772,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-4,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,772,0,0
+1602500659737,653,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-4,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,653,0,0
+1602500660391,801,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-4,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,789,0,0
+1602500659200,2212,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-1,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,695,0,0
+1602500659200,695,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-1,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,695,0,0
+1602500659896,662,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-1,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,662,0,0
+1602500660559,853,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-1,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,823,0,0
+1602500661063,449,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-6,text,true,,24221,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,435,0,0
+1602500661513,273,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-6,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,273,0,0
+1602500661194,603,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-4,text,true,,24220,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,591,0,0
+1602500661413,603,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-1,text,true,,24222,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,593,0,0
+1602500659687,2341,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-5,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,845,0,0
+1602500659687,845,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-5,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,845,0,0
+1602500660533,570,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-5,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,570,0,0
+1602500661104,924,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-5,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,911,0,0
+1602500661798,264,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-4,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,264,0,0
+1602500659753,2368,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-2,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,855,0,0
+1602500659753,855,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-2,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,855,0,0
+1602500660609,576,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-2,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,575,0,0
+1602500661186,935,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-2,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,924,0,0
+1602500661788,340,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-6,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,340,0,0
+1602500659699,2523,/GnC.POS/Home/Search-619,200,OK,Thread Group 1-3,text,true,,38759,3204,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,892,0,0
+1602500659699,892,/GnC.POS/Home/Search-619-0,302,Found,Thread Group 1-3,text,true,,715,1222,6,6,https://test.cogitate.us/GnC.POS/Home/Search,892,0,0
+1602500660592,593,/GnC.POS/Home/Search-619-1,302,Found,Thread Group 1-3,text,true,,707,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=11158&fromSession=True,592,0,0
+1602500661186,1036,/GnC.POS/Home/Search-619-2,200,OK,Thread Group 1-3,text,true,,37337,989,6,6,https://test.cogitate.us/GnC.POS/HO3/Endorsement/View?PolicyNo=LLGC1CA202294&message=MSG1059,1025,0,0
+1602500662018,267,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-1,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,267,0,0
+1602500662063,295,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-4,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,295,0,0
+1602500662029,529,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-5,text,true,,24224,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,519,0,0
+1602500662123,454,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-2,text,true,,24220,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,443,0,0
+1602500662286,317,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-1,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,317,0,0
+1602500662224,492,/GnC.POS/HO3/Quote-621,200,OK,Thread Group 1-3,text,true,,24221,856,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote,483,0,0
+1602500662559,281,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-5,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,281,0,0
+1602500662579,272,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-2,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,271,0,0
+1602500662717,274,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-648,200,OK,Thread Group 1-3,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,274,0,0
+1602500662129,932,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-6,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,931,0,0
+1602500662842,337,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-5,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,337,0,0
+1602500662852,373,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-2,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,373,0,0
+1602500662993,316,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-649,200,OK,Thread Group 1-3,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,316,0,0
+1602500662360,955,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-4,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,955,0,0
+1602500663062,273,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-6,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,273,0,0
+1602500662605,955,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-1,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,955,0,0
+1602500663317,261,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-4,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,261,0,0
+1602500663337,306,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-6,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,306,0,0
+1602500663561,285,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-1,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,285,0,0
+1602500663580,315,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-4,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,315,0,0
+1602500663180,971,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-5,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,971,0,0
+1602500663848,303,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-1,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,303,0,0
+1602500663227,984,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-2,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,983,0,0
+1602500663311,975,/GnC.POS/HO3/Quote/SaveQuote-650,200,OK,Thread Group 1-3,text,true,,469,2073,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,975,0,0
+1602500664153,293,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-5,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,293,0,0
+1602500664212,262,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-2,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,262,0,0
+1602500664288,257,/GnC.POS/HO3/Quote/ValidateRiskQualifiers-652,200,OK,Thread Group 1-3,text,true,,469,959,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateRiskQualifiers,257,0,0
+1602500664447,308,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-5,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,308,0,0
+1602500664476,363,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-2,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,363,0,0
+1602500664546,311,/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate-653,200,OK,Thread Group 1-3,text,true,,469,2092,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/ValidateTIVForOpenAggreggate,311,0,0
+1602500663645,8423,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-6,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,8423,0,0
+1602500664841,7235,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-2,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7235,0,0
+1602500664858,7219,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-3,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7218,0,0
+1602500659697,12367,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-3,,true,,67548,14317,6,6,null,10726,14,0
+1602500659752,12311,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-2,,true,,67547,14317,6,6,null,10785,15,0
+1602500664153,7925,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-1,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7924,0,0
+1602500658612,13444,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-6,,true,,67548,14317,6,6,null,11787,23,0
+1602500659199,12867,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,67549,14317,6,6,null,11339,13,0
+1602500664758,7322,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-5,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7322,0,0
+1602500659686,12382,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-5,,true,,67551,14317,6,6,null,10876,13,0
+1602500663896,8228,/GnC.POS/HO3/Quote/GetQuoteEstimation-655,200,OK,Thread Group 1-4,text,true,,2223,2082,6,6,https://test.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,8228,0,0
+1602500658963,13149,,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-4,,true,,67547,14317,6,6,null,11681,13,0
+1602500682913,774,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-2,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,760,0,0
+1602500683049,672,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-4,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,644,0,0
+1602500682938,841,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-6,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,827,0,0
+1602500682965,873,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-1,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,851,0,0
+1602500683742,263,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-2,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,263,0,0
+1602500683749,265,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-4,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,264,0,0
+1602500683786,262,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-6,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,262,0,0
+1602500683849,272,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-1,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,272,0,0
+1602500682916,1323,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-5,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,1302,0,0
+1602500684015,278,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-4,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,278,0,0
+1602500684006,302,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-2,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,302,0,0
+1602500684050,280,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-6,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,280,0,0
+1602500682931,1404,/GnC.POS/HO3/PolicyHolder-659,200,OK,Thread Group 1-3,text,true,,36620,842,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,1389,0,0
+1602500684123,280,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-1,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,280,0,0
+1602500684251,263,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-5,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,262,0,0
+1602500684347,275,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-671,200,OK,Thread Group 1-3,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,275,0,0
+1602500684515,288,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-5,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,287,0,0
+1602500684623,294,/GnC.POS/HO3/RiskQualifiers/Index-672,200,OK,Thread Group 1-3,text,true,,2953,776,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,293,0,0
+1602500684309,894,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-2,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,428,0,0
+1602500684309,428,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-2,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,428,0,0
+1602500684738,465,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-2,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,455,0,0
+1602500684294,951,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-4,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,440,0,0
+1602500684294,440,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-4,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,440,0,0
+1602500684735,510,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-4,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,497,0,0
+1602500684332,982,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-6,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,405,0,0
+1602500684332,405,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-6,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,405,0,0
+1602500684738,576,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-6,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,533,0,0
+1602500684405,948,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-1,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,342,0,0
+1602500684405,342,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-1,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,342,0,0
+1602500684747,606,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-1,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,592,0,0
+1602500685204,434,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-2,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,416,0,0
+1602500685246,425,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-4,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,415,0,0
+1602500684918,783,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-3,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,333,0,0
+1602500684918,333,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-3,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,333,0,0
+1602500685252,449,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-3,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,429,0,0
+1602500684804,1005,/GnC.POS/HO3/RiskQualifiers/Save-675,200,OK,Thread Group 1-5,text,true,,37237,3250,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,335,0,0
+1602500684804,336,/GnC.POS/HO3/RiskQualifiers/Save-675-0,302,Found,Thread Group 1-5,text,true,,617,2292,6,6,https://test.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,335,0,0
+1602500685140,669,/GnC.POS/HO3/RiskQualifiers/Save-675-1,200,OK,Thread Group 1-5,text,true,,36620,958,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,654,0,0
+1602500685355,492,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-1,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,474,0,0
+1602500685315,574,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-6,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,556,0,0
+1602500685639,276,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-2,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,276,0,0
+1602500672078,2943,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,114370,7505,6,6,null,2445,10895,0
+1602500685673,257,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-4,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,257,0,0
+1602500672125,2848,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,114370,7505,6,6,null,2298,10958,0
+1602500685848,258,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-1,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,258,0,0
+1602500672079,3123,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,114370,7505,6,6,null,2477,10904,0
+1602500685890,308,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-6,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,308,0,0
+1602500672079,3247,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-6,,true,,114370,7505,6,6,null,2638,10873,0
+1602500685810,514,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-5,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,496,0,0
+1602500685703,750,/GnC.POS/HO3/PolicyHolder-676,200,OK,Thread Group 1-3,text,true,,36620,875,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder,730,0,0
+1602500686325,257,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-5,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,257,0,0
+1602500672081,3650,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,114370,7505,6,6,null,2939,10851,0
+1602500685917,675,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-2,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,675,0,0
+1602500685932,731,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-4,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,731,0,0
+1602500686454,252,/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false-689,200,OK,Thread Group 1-3,text,true,,470,881,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,252,0,0
+1602500672078,3758,,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,114370,7505,6,6,null,3272,10871,0
+1602500686107,753,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-1,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,753,0,0
+1602500686199,705,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-6,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,705,0,0
+1602500686664,459,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-4,text,true,,22958,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,450,0,0
+1602500685931,1190,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,23496,3189,6,6,null,1181,2,0
+1602500687124,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500686593,637,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-2,text,true,,22961,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,628,0,0
+1602500685916,1312,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,23499,3189,6,6,null,1303,2,0
+1602500687230,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500686583,669,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-5,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,669,0,0
+1602500686905,455,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-6,text,true,,22958,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,446,0,0
+1602500686199,1160,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,23496,3189,6,6,null,1151,1,0
+1602500687360,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500686861,525,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-1,text,true,,22957,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,516,0,0
+1602500686106,1278,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,23495,3189,6,6,null,1269,2,0
+1602500687387,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500686708,681,/GnC.POS/HO3/PolicyHolder/SavePolicyHolder-694,200,OK,Thread Group 1-3,text,true,,538,2338,6,6,https://test.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,680,0,0
+1602500687253,455,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-5,text,true,,22959,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,446,0,0
+1602500686582,1124,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,23497,3189,6,6,null,1115,2,0
+1602500687708,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500687125,708,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-4,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,708,0,0
+1602500687390,510,/GnC.POS/HO3/Property/Index-697,200,OK,Thread Group 1-3,text,true,,22960,851,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/Index,498,0,0
+1602500686707,1191,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,23498,3189,6,6,null,1178,3,0
+1602500687901,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500687231,694,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-2,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,694,0,0
+1602500687361,751,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-6,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,751,0,0
+1602500687388,754,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-1,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,753,0,0
+1602500687834,403,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-4,text,true,,20722,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,395,0,0
+1602500687927,413,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-2,text,true,,20721,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,405,0,0
+1602500687709,714,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-5,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,714,0,0
+1602500688143,392,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-1,text,true,,20714,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,384,0,0
+1602500687902,675,/GnC.POS/HO3/Property/SaveProperty-715,200,OK,Thread Group 1-3,text,true,,476,1507,6,6,https://test.cogitate.us/GnC.POS/HO3/Property/SaveProperty,675,0,0
+1602500688113,513,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-6,text,true,,20716,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,505,0,0
+1602500688424,411,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-5,text,true,,20722,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,404,0,0
+1602500688238,636,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-4,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,635,0,0
+1602500688341,674,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-2,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,674,0,0
+1602500688578,437,/GnC.POS/HO3/Occupancy/Index-716,200,OK,Thread Group 1-3,text,true,,20721,854,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/Index,430,0,0
+1602500688536,711,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-1,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,711,0,0
+1602500688874,487,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-4,text,true,,30548,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,475,0,0
+1602500687124,2234,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,52222,4561,6,6,null,2213,3,0
+1602500688627,736,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-6,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,736,0,0
+1602500688836,654,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-5,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,654,0,0
+1602500689016,477,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-2,text,true,,30547,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,437,0,0
+1602500687230,2258,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,52220,4561,6,6,null,2210,6,0
+1602500689017,676,/GnC.POS/HO3/Occupancy/SaveOccupancy-729,200,OK,Thread Group 1-3,text,true,,476,1345,6,6,https://test.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,676,0,0
+1602500689248,449,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-1,text,true,,30543,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,429,0,0
+1602500687387,2306,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,52209,4561,6,6,null,2277,4,0
+1602500689364,463,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-6,text,true,,30545,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,438,0,0
+1602500687360,2463,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,52213,4561,6,6,null,2430,5,0
+1602500689491,455,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-5,text,true,,30547,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,446,0,0
+1602500687708,2234,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,52221,4561,6,6,null,2218,5,0
+1602500689695,563,/GnC.POS/HO3/Coverages/Index-730,200,OK,Thread Group 1-3,text,true,,30546,855,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/Index,554,0,0
+1602500687901,2351,,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,52219,4561,6,6,null,2335,6,0
+1602500695713,7137,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-2,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7137,0,0
+1602500696080,6783,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-6,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,6783,0,0
+1602500695863,7006,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-1,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7006,0,0
+1602500695555,7395,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-4,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7395,0,0
+1602500696132,6873,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-5,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,6873,0,0
+1602500696503,6545,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-745,200,OK,Thread Group 1-3,text,true,,633,4483,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,6545,0,0
+1602500702854,288,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-2,text,true,,1899,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,288,0,0
+1602500689494,7425,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,2532,5446,6,6,null,7425,6224,0
+1602500703143,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500702864,298,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-6,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,297,0,0
+1602500689828,7081,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,2528,5446,6,6,null,7080,6253,0
+1602500703162,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500702870,312,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-1,text,true,,1894,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,312,0,0
+1602500689697,7318,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,2527,5446,6,6,null,7318,6167,0
+1602500703182,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500702951,290,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-4,text,true,,1899,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,290,0,0
+1602500689361,7685,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,2532,5446,6,6,null,7685,6195,0
+1602500703242,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500703006,294,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-5,text,true,,1894,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,293,0,0
+1602500689947,7167,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,2527,5446,6,6,null,7166,6186,0
+1602500703301,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500703049,297,/GnC.POS/HO3/Coverages/GetMortgagee-747,200,OK,Thread Group 1-3,text,true,,1894,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,296,0,0
+1602500690258,6842,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,2527,5446,6,6,null,6841,6247,0
+1602500703348,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500703349,2242,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-3,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2242,0,0
+1602500703183,2411,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-1,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2411,0,0
+1602500703242,2585,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-4,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2585,0,0
+1602500703143,2686,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-2,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2686,0,0
+1602500705592,507,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-3,text,true,,1893,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,506,0,0
+1602500703348,2749,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,2526,5478,6,6,null,2748,3,0
+1602500706100,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500705595,518,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-1,text,true,,1892,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,518,0,0
+1602500703183,2929,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,2525,5478,6,6,null,2929,2,0
+1602500706114,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500703301,2830,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-5,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2830,0,0
+1602500703163,2973,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-754,200,OK,Thread Group 1-6,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2972,0,0
+1602500705827,571,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-4,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,571,0,0
+1602500703242,3156,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,2528,5478,6,6,null,3156,0,0
+1602500706399,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500705829,575,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-2,text,true,,1898,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,575,0,0
+1602500703143,3261,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,2531,5478,6,6,null,3261,0,0
+1602500706404,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500706132,297,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-5,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,297,0,0
+1602500703301,3127,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,2528,5478,6,6,null,3127,1,0
+1602500706429,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500706137,305,/GnC.POS/HO3/Coverages/GetMortgagee-756,200,OK,Thread Group 1-6,text,true,,1896,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,305,0,0
+1602500703163,3278,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,2529,5478,6,6,null,3277,1,0
+1602500706442,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500712057,2301,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-1,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2301,0,858
+1602500712018,2531,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-3,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2531,0,909
+1602500712392,2638,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-6,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2638,0,858
+1602500712397,2667,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-5,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,2667,0,735
+1602500714550,528,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-3,text,true,,1889,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,528,0,0
+1602500706100,3059,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,2522,5478,6,6,null,3059,5920,909
+1602500715079,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500714360,721,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-1,text,true,,1894,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,721,0,0
+1602500706114,3022,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,2527,5478,6,6,null,3022,5945,858
+1602500715081,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500712361,3362,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-4,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,3362,0,763
+1602500712379,3344,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-758,200,OK,Thread Group 1-2,text,true,,633,4515,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,3344,0,778
+1602500715032,881,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-6,text,true,,1893,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,880,0,0
+1602500715065,848,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-5,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,847,0,0
+1602500706429,3515,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,2528,5478,6,6,null,3514,5969,735
+1602500706443,3519,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,2526,5478,6,6,null,3518,5951,858
+1602500715914,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500715914,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500715725,263,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-4,text,true,,1893,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,263,0,0
+1602500706399,3625,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,2526,5478,6,6,null,3625,5965,763
+1602500715989,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,1,0
+1602500715725,274,/GnC.POS/HO3/Coverages/GetMortgagee-763,200,OK,Thread Group 1-2,text,true,,1893,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,274,0,0
+1602500706404,3618,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,2526,5478,6,6,null,3618,5977,778
+1602500715999,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500725132,9372,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,500,Internal Server Error,Thread Group 1-6,text,false,,4072,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,9372,0,0
+1602500734512,266,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-6,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,265,0,0
+1602500724372,10434,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,200,OK,Thread Group 1-3,text,true,,592,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,10434,0,0
+1602500734807,402,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-3,text,true,,1899,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,402,0,0
+1602500724352,11360,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,200,OK,Thread Group 1-1,text,true,,592,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,11360,0,0
+1602500735713,267,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-1,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,267,0,0
+1602500734778,1210,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-6,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,995,0,0
+1602500715914,10848,,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-6,,false,,32232,6306,6,6,null,10632,9227,0
+1602500735210,1198,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-3,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,964,0,0
+1602500715079,12034,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,28756,6306,6,6,null,11800,9296,0
+1602500725305,11578,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,200,OK,Thread Group 1-4,text,true,,592,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,11578,0,0
+1602500736884,307,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-4,text,true,,1890,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,306,0,0
+1602500736409,1017,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-3,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,1008,0,0
+1602500736409,1017,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,28173,847,6,6,null,1008,1,0
+1602500737427,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500735989,1505,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-6,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,1497,0,0
+1602500735989,1505,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,28173,847,6,6,null,1497,1,0
+1602500737495,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500735981,1718,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-1,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,1476,0,0
+1602500715081,13345,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,28752,6306,6,6,null,13103,9273,0
+1602500725160,13246,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,200,OK,Thread Group 1-5,text,true,,592,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,13246,0,0
+1602500737192,1361,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-4,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,1144,0,0
+1602500715990,13246,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,28747,6306,6,6,null,13028,9317,0
+1602500738407,260,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-5,text,true,,1887,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,259,0,0
+1602500737700,1015,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-1,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,1006,0,0
+1602500737699,1015,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,28173,847,6,6,null,1006,1,0
+1602500738715,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500738554,1019,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-4,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,1010,0,0
+1602500738553,1019,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,28173,847,6,6,null,1010,1,0
+1602500739573,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500725242,14447,/GnC.POS/HO3/Coverages/SaveCoveragesAndRate-766,200,OK,Thread Group 1-2,text,true,,592,4516,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,14447,0,0
+1602500738668,1154,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-5,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,924,0,0
+1602500715914,14660,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,28744,6306,6,6,null,14429,9248,0
+1602500739690,258,/GnC.POS/HO3/Coverages/GetMortgagee-769,200,OK,Thread Group 1-2,text,true,,1895,963,6,6,https://test.cogitate.us/GnC.POS/HO3/Coverages/GetMortgagee,258,0,0
+1602500739823,948,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-5,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,934,0,0
+1602500739822,948,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,28173,847,6,6,null,934,1,0
+1602500740771,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,1,0
+1602500739949,1325,/GnC.POS/HO3/Summary-770,200,OK,Thread Group 1-2,text,true,,26265,827,6,6,https://test.cogitate.us/GnC.POS/HO3/Summary,1089,0,0
+1602500716000,16030,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,28752,6306,6,6,null,15794,9244,0
+1602500741275,1031,/GnC.POS/HO3/ApplicationForm-783,200,OK,Thread Group 1-2,text,true,,28173,847,6,6,https://test.cogitate.us/GnC.POS/HO3/ApplicationForm,1023,0,0
+1602500741274,1031,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,28173,847,6,6,null,1023,1,0
+1602500742306,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500745719,102938,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,200,OK,Thread Group 1-3,text,true,,557,993,6,6,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,102938,0,0
+1602500848659,2368,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-3,text,true,,19880,826,6,6,https://test.cogitate.us/GnC.POS/HO3/Policy,2142,0,1539
+1602500737427,105306,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,20437,1819,6,6,null,105080,8306,1539
+1602500851039,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500747031,107971,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,200,OK,Thread Group 1-1,text,true,,557,993,5,5,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,107970,0,0
+1602500855003,1424,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-1,text,true,,19876,826,5,5,https://test.cogitate.us/GnC.POS/HO3/Policy,1213,0,834
+1602500738715,109395,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,20433,1819,5,5,null,109183,8323,834
+1602500856433,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500745841,113904,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,200,OK,Thread Group 1-6,text,true,,557,993,4,4,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,113904,0,0
+1602500747861,114617,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,500,Internal Server Error,Thread Group 1-4,text,false,,3972,993,4,4,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,114617,0,0
+1602500859747,2968,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-6,text,true,,19887,826,4,4,https://test.cogitate.us/GnC.POS/HO3/Policy,2746,0,1110
+1602500737495,116872,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,20444,1819,4,4,null,116650,8354,1110
+1602500862721,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500862479,3922,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-4,text,true,,19876,826,3,3,https://test.cogitate.us/GnC.POS/HO3/Policy,3702,0,949
+1602500739573,118539,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-4,,false,,23848,1819,3,3,null,118319,8295,949
+1602500866407,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500749094,121460,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,200,OK,Thread Group 1-5,text,true,,557,993,2,2,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,121459,0,0
+1602500870554,3379,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-5,text,true,,19884,826,2,2,https://test.cogitate.us/GnC.POS/HO3/Policy,3161,0,2003
+1602500740772,124839,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,20441,1819,2,2,null,124620,8328,2003
+1602500873939,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1602500750635,131414,/GnC.POS/ApplicationForm/GeneratePolicyForms-798,200,OK,Thread Group 1-2,text,true,,557,993,1,1,https://test.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,131414,0,0
+1602500882056,4122,/GnC.POS/HO3/Policy-803,200,OK,Thread Group 1-2,text,true,,19879,826,1,1,https://test.cogitate.us/GnC.POS/HO3/Policy,3905,0,2877
+1602500742306,135536,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,20436,1819,1,1,null,135319,8343,2877
+1602500886185,0,,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0

@@ -1,0 +1,5 @@
+jmeter -n -t New_FNOL.jmx -l C:\Users\Vidya\Desktop\apache-jmeter-5.3\apache-jmeter-5.3\bin\results\1\log.jtl -e -o C:\Users\Vidya\Desktop\apache-jmeter-5.3\apache-jmeter-5.3\bin\results\1\output
+
+
+
+D:\apache-jmeter-5.3\apache-jmeter-5.3\bin\jmeter -n -t D:\Jmeter_Scripts\GnC\UAT_QuoteResults\Scripts\GnCQuote_1_1.jmx -l D:\Jmeter_Scripts\GnC\UAT_QuoteResults\1_1\Log\log.jtl -e -o D:\Jmeter_Scripts\GnC\UAT_QuoteResults\1_1\Output

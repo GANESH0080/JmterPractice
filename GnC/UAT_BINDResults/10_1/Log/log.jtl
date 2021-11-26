@@ -1,0 +1,411 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603186944162,2768,GOTO URL,200,OK,Thread Group 1-1,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2761,0,2303
+1603186944787,2143,GOTO URL,200,OK,Thread Group 1-9,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2136,0,1678
+1603186944473,2457,GOTO URL,200,OK,Thread Group 1-6,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2450,0,1992
+1603186944471,2457,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,3715,144,10,10,null,2450,13,1992
+1603186944786,2143,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,3715,144,10,10,null,2136,15,1678
+1603186944192,2738,GOTO URL,200,OK,Thread Group 1-3,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2736,0,2277
+1603186944189,2738,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,3715,144,10,10,null,2736,18,2277
+1603186944012,2768,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3715,144,10,10,null,2761,154,2303
+1603186944162,2768,GOTO URL,200,OK,Thread Group 1-2,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2761,0,2318
+1603186944105,2768,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,3715,144,10,10,null,2761,74,2318
+1603186944677,2253,GOTO URL,200,OK,Thread Group 1-8,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2246,0,1810
+1603186944675,2253,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,3715,144,10,10,null,2246,23,1810
+1603186944823,2107,GOTO URL,200,OK,Thread Group 1-10,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2104,0,1657
+1603186944822,2107,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,3715,144,10,10,null,2104,25,1657
+1603186944570,2360,GOTO URL,200,OK,Thread Group 1-7,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2354,0,1903
+1603186944285,2645,GOTO URL,200,OK,Thread Group 1-4,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2643,0,2204
+1603186944283,2645,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,3715,144,10,10,null,2643,29,2204
+1603186944370,2560,GOTO URL,200,OK,Thread Group 1-5,text,true,,3715,144,10,10,https://uat.cogitate.us/GnC.POS/?Message=MSG0004,2554,0,2105
+1603186944369,2560,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,3715,144,10,10,null,2554,29,2105
+1603186944570,2360,GO TO TEST.COGITATE.US/GnC/POS,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,3715,144,10,10,null,2354,29,1903
+1603186946946,7922,LOGIN ,200,OK,Thread Group 1-3,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1756,0,0
+1603186946946,1756,LOGIN -0,302,Found,Thread Group 1-3,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1756,0,0
+1603186948703,6165,LOGIN -1,200,OK,Thread Group 1-3,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,448,0,0
+1603186954885,571,GOTO APPLICATION STATUS,200,OK,Thread Group 1-3,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,556,0,0
+1603186946945,8493,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,853389,1785,10,10,null,2312,24,0
+1603186946960,8974,LOGIN ,200,OK,Thread Group 1-5,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1736,0,0
+1603186946960,1736,LOGIN -0,302,Found,Thread Group 1-5,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1736,0,0
+1603186948697,7237,LOGIN -1,200,OK,Thread Group 1-5,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,581,0,0
+1603186955936,436,GOTO APPLICATION STATUS,200,OK,Thread Group 1-5,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,423,0,0
+1603186946959,9410,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,853389,1785,10,10,null,2159,7,0
+1603186946958,10190,LOGIN ,200,OK,Thread Group 1-4,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1729,0,0
+1603186946958,1729,LOGIN -0,302,Found,Thread Group 1-4,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1729,0,0
+1603186948693,8455,LOGIN -1,200,OK,Thread Group 1-4,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,696,0,0
+1603186957151,359,GOTO APPLICATION STATUS,200,OK,Thread Group 1-4,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,343,0,0
+1603186946958,10549,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,853389,1785,10,10,null,2072,9,0
+1603186946955,11286,LOGIN ,200,OK,Thread Group 1-10,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1740,0,0
+1603186946955,1740,LOGIN -0,302,Found,Thread Group 1-10,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1740,0,0
+1603186948696,9545,LOGIN -1,200,OK,Thread Group 1-10,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,657,0,0
+1603186946959,11395,LOGIN ,200,OK,Thread Group 1-7,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1740,0,0
+1603186946959,1740,LOGIN -0,302,Found,Thread Group 1-7,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1740,0,0
+1603186948700,9654,LOGIN -1,200,OK,Thread Group 1-7,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,674,0,0
+1603186958243,334,GOTO APPLICATION STATUS,200,OK,Thread Group 1-10,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,323,0,0
+1603186946955,11620,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,853389,1785,10,10,null,2063,10,0
+1603186958356,334,GOTO APPLICATION STATUS,200,OK,Thread Group 1-7,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,325,0,0
+1603186946959,11729,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,853389,1785,10,10,null,2065,7,0
+1603186946946,11939,LOGIN ,200,OK,Thread Group 1-1,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1752,0,0
+1603186946946,1753,LOGIN -0,302,Found,Thread Group 1-1,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1752,0,0
+1603186948700,10185,LOGIN -1,200,OK,Thread Group 1-1,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,632,0,0
+1603186958887,318,GOTO APPLICATION STATUS,200,OK,Thread Group 1-1,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,306,0,0
+1603186946946,12257,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,853389,1785,10,10,null,2058,9,0
+1603186946943,12462,LOGIN ,200,OK,Thread Group 1-6,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1740,0,0
+1603186946943,1740,LOGIN -0,302,Found,Thread Group 1-6,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1740,0,0
+1603186948696,10709,LOGIN -1,200,OK,Thread Group 1-6,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,449,0,0
+1603186946944,12646,LOGIN ,200,OK,Thread Group 1-9,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1752,0,0
+1603186946944,1752,LOGIN -0,302,Found,Thread Group 1-9,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1752,0,0
+1603186948697,10893,LOGIN -1,200,OK,Thread Group 1-9,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,440,0,0
+1603186959406,351,GOTO APPLICATION STATUS,200,OK,Thread Group 1-6,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,338,0,0
+1603186946942,12813,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,853389,1785,10,10,null,2078,6,0
+1603186959593,332,GOTO APPLICATION STATUS,200,OK,Thread Group 1-9,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,323,0,0
+1603186946944,12978,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,853389,1785,10,10,null,2075,6,0
+1603186946952,13162,LOGIN ,200,OK,Thread Group 1-8,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1740,0,0
+1603186946952,1740,LOGIN -0,302,Found,Thread Group 1-8,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1740,0,0
+1603186948694,11420,LOGIN -1,200,OK,Thread Group 1-8,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,617,0,0
+1603186946948,13223,LOGIN ,200,OK,Thread Group 1-2,text,true,,832914,926,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,1734,0,0
+1603186946948,1735,LOGIN -0,302,Found,Thread Group 1-2,text,true,,734,579,10,10,https://uat.cogitate.us/GnC.POS/,1734,0,0
+1603186948689,11482,LOGIN -1,200,OK,Thread Group 1-2,text,true,,832180,347,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,613,0,0
+1603186960115,396,GOTO APPLICATION STATUS,200,OK,Thread Group 1-8,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,386,0,0
+1603186946952,13558,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,853389,1785,10,10,null,2126,7,0
+1603186960173,353,GOTO APPLICATION STATUS,200,OK,Thread Group 1-2,text,true,,20475,859,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus,346,0,0
+1603186946947,13576,LOGIN PROCESS,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,853389,1785,10,10,null,2080,7,0
+1603186960631,555,GOTO HOME PAGE,200,OK,Thread Group 1-3,text,true,,90049,837,10,10,https://uat.cogitate.us/GnC.POS/Home,501,0,0
+1603186955462,555,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,90049,837,10,10,null,501,5189,0
+1603186961521,807,GOTO HOME PAGE,200,OK,Thread Group 1-5,text,true,,90048,837,10,10,https://uat.cogitate.us/GnC.POS/Home,474,0,0
+1603186956377,807,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,90048,837,10,10,null,474,5152,0
+1603186962701,774,GOTO HOME PAGE,200,OK,Thread Group 1-4,text,true,,90052,837,10,10,https://uat.cogitate.us/GnC.POS/Home,492,0,0
+1603186957516,774,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,90052,837,10,10,null,492,5190,0
+1603186963724,990,GOTO HOME PAGE,200,OK,Thread Group 1-10,text,true,,90048,837,10,10,https://uat.cogitate.us/GnC.POS/Home,455,0,0
+1603186958585,990,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,90048,837,10,10,null,455,5143,0
+1603186963872,1005,GOTO HOME PAGE,200,OK,Thread Group 1-7,text,true,,90048,837,10,10,https://uat.cogitate.us/GnC.POS/Home,451,0,0
+1603186958695,1005,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,90048,837,10,10,null,451,5180,0
+1603186964354,1016,GOTO HOME PAGE,200,OK,Thread Group 1-1,text,true,,90053,837,10,10,https://uat.cogitate.us/GnC.POS/Home,491,0,0
+1603186959212,1016,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,90053,837,10,10,null,491,5145,0
+1603186964945,790,GOTO HOME PAGE,200,OK,Thread Group 1-6,text,true,,90050,837,10,10,https://uat.cogitate.us/GnC.POS/Home,479,0,0
+1603186959761,790,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,90050,837,10,10,null,479,5186,0
+1603186961207,4643,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-3,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,2182,0,0
+1603186961207,2182,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-3,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,2182,0,0
+1603186963390,2058,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-3,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2058,0,0
+1603186965449,402,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-3,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,397,0,0
+1603186965125,1141,GOTO HOME PAGE,200,OK,Thread Group 1-9,text,true,,90051,837,10,10,https://uat.cogitate.us/GnC.POS/Home,517,0,0
+1603186959928,1141,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,90051,837,10,10,null,517,5200,0
+1603186965852,590,GOTO QUOTE PAGE,200,OK,Thread Group 1-3,text,true,,24219,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,581,0,0
+1603186965629,1043,GOTO HOME PAGE,200,OK,Thread Group 1-8,text,true,,90048,837,10,10,https://uat.cogitate.us/GnC.POS/Home,446,0,0
+1603186960517,1043,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,90048,837,10,10,null,446,5117,0
+1603186965679,1163,GOTO HOME PAGE,200,OK,Thread Group 1-2,text,true,,90045,837,10,10,https://uat.cogitate.us/GnC.POS/Home,505,0,0
+1603186960530,1163,GO TO GENERATE QUOTE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,90045,837,10,10,null,505,5153,0
+1603186962337,4934,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-5,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,1827,0,0
+1603186962337,1827,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-5,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,1827,0,0
+1603186964166,2442,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-5,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2442,0,0
+1603186966608,663,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-5,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,659,0,0
+1603186967272,419,GOTO QUOTE PAGE,200,OK,Thread Group 1-5,text,true,,24211,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,414,0,0
+1603186963481,5895,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-4,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,2385,0,0
+1603186963481,2385,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-4,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,2385,0,0
+1603186965867,3142,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-4,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,3142,0,0
+1603186969010,366,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-4,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,360,0,0
+1603186969375,515,GOTO QUOTE PAGE,200,OK,Thread Group 1-4,text,true,,24213,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,507,0,0
+1603186964719,6846,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-10,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3159,0,0
+1603186964719,3159,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-10,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3159,0,0
+1603186967879,3287,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-10,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,3287,0,0
+1603186971165,399,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-10,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,395,0,0
+1603186964882,6729,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-7,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3069,0,0
+1603186964882,3069,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-7,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3069,0,0
+1603186967952,3271,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-7,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,3271,0,0
+1603186971222,388,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-7,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,384,0,0
+1603186966443,5301,GET QUOTE,200,OK,Thread Group 1-3,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,5301,0,0
+1603186965374,6537,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-1,text,true,,25532,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,2960,0,0
+1603186965374,2960,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-1,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,2960,0,0
+1603186968335,3186,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-1,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,3186,0,0
+1603186971520,390,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-1,text,true,,24178,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,386,0,0
+1603186971565,442,GOTO QUOTE PAGE,200,OK,Thread Group 1-10,text,true,,24213,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,428,0,0
+1603186971610,541,GOTO QUOTE PAGE,200,OK,Thread Group 1-7,text,true,,24212,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,536,0,0
+1603186971911,458,GOTO QUOTE PAGE,200,OK,Thread Group 1-1,text,true,,24215,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,445,0,0
+1603186967692,4767,GET QUOTE,200,OK,Thread Group 1-5,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,4767,0,0
+1603186966271,6296,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-9,text,true,,25533,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3352,0,0
+1603186966271,3352,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-9,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3352,0,0
+1603186969622,2553,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-9,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2553,0,0
+1603186972176,391,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-9,text,true,,24179,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,384,0,0
+1603186965739,6880,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-6,text,true,,25533,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3736,0,0
+1603186965739,3736,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-6,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3736,0,0
+1603186969475,2754,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-6,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2754,0,0
+1603186972229,390,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-6,text,true,,24179,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,386,0,0
+1603186966678,6369,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-8,text,true,,25533,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3663,0,0
+1603186966678,3663,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-8,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3663,0,0
+1603186970340,2299,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-8,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2299,0,0
+1603186972639,408,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-8,text,true,,24179,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,396,0,0
+1603186972568,487,GOTO QUOTE PAGE,200,OK,Thread Group 1-9,text,true,,24213,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,483,0,0
+1603186966848,6230,SEARCH PROPERTY ADDRESS,200,OK,Thread Group 1-2,text,true,,25533,3148,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,3531,0,0
+1603186966848,3531,SEARCH PROPERTY ADDRESS-0,302,Found,Thread Group 1-2,text,true,,705,1194,10,10,https://uat.cogitate.us/GnC.POS/Home/Search,3531,0,0
+1603186970378,2243,SEARCH PROPERTY ADDRESS-1,302,Found,Thread Group 1-2,text,true,,649,990,10,10,https://uat.cogitate.us/GnC.POS/ApplicationStatus/GetPolicy?PolicyInfoid=229&fromSession=True,2243,0,0
+1603186972622,456,SEARCH PROPERTY ADDRESS-2,200,OK,Thread Group 1-2,text,true,,24179,964,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm?message=MSG1059,446,0,0
+1603186972620,482,GOTO QUOTE PAGE,200,OK,Thread Group 1-6,text,true,,24213,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,474,0,0
+1603186973048,448,GOTO QUOTE PAGE,200,OK,Thread Group 1-8,text,true,,24218,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,438,0,0
+1603186973079,429,GOTO QUOTE PAGE,200,OK,Thread Group 1-2,text,true,,24215,855,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote,425,0,0
+1603186969891,3734,GET QUOTE,200,OK,Thread Group 1-4,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,3734,0,0
+1603186972008,4916,GET QUOTE,200,OK,Thread Group 1-10,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,4916,0,0
+1603186972152,4826,GET QUOTE,200,OK,Thread Group 1-7,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,4826,0,0
+1603186972369,4811,GET QUOTE,200,OK,Thread Group 1-1,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,4811,0,0
+1603186973056,5597,GET QUOTE,200,OK,Thread Group 1-9,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,5597,0,0
+1603186973103,5768,GET QUOTE,200,OK,Thread Group 1-6,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,5768,0,0
+1603186973508,5660,GET QUOTE,200,OK,Thread Group 1-2,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,5659,0,0
+1603186973497,5737,GET QUOTE,200,OK,Thread Group 1-8,text,true,,463,2072,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/SaveQuote,5736,0,0
+1603186976928,8620,QUOTE ESTIMATION,200,OK,Thread Group 1-10,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,8620,0,0
+1603186964719,20824,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,52460,8156,10,10,null,17123,9,0
+1603186973626,12003,QUOTE ESTIMATION,200,OK,Thread Group 1-4,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,12003,0,0
+1603186963480,22147,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,52460,8156,10,10,null,18629,3,0
+1603186972458,13275,QUOTE ESTIMATION,200,OK,Thread Group 1-5,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,13275,0,0
+1603186962336,23395,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,52458,8156,10,10,null,20283,3,0
+1603186971744,14053,QUOTE ESTIMATION,200,OK,Thread Group 1-3,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,14053,0,0
+1603186961207,24587,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,52466,8156,10,10,null,22117,4,0
+1603186978655,7896,QUOTE ESTIMATION,200,OK,Thread Group 1-9,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7896,0,0
+1603186966271,20276,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,52461,8156,10,10,null,17328,5,0
+1603186979170,7542,QUOTE ESTIMATION,200,OK,Thread Group 1-2,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7541,0,0
+1603186966847,19861,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,52463,8156,10,10,null,17156,4,0
+1603186977182,9775,QUOTE ESTIMATION,200,OK,Thread Group 1-1,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,9775,0,0
+1603186965374,21581,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,52462,8156,10,10,null,17991,7,0
+1603186979238,7791,QUOTE ESTIMATION,200,OK,Thread Group 1-8,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,7791,0,0
+1603186966678,20345,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,52466,8156,10,10,null,17628,6,0
+1603186978873,8258,QUOTE ESTIMATION,200,OK,Thread Group 1-6,text,true,,2252,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,8258,0,0
+1603186965739,21388,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,52461,8156,10,10,null,18236,5,0
+1603186976979,10218,QUOTE ESTIMATION,200,OK,Thread Group 1-7,text,true,,2251,2081,10,10,https://uat.cogitate.us/GnC.POS/HO3/Quote/GetQuoteEstimation,10217,0,0
+1603186964881,22314,QUOTE CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,52458,8156,10,10,null,18648,3,0
+1603186996523,448,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-4,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,409,0,0
+1603186996386,658,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-10,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,385,0,0
+1603186996622,478,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-5,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,445,0,0
+1603186996676,528,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-3,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,453,0,0
+1603186997013,301,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-4,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,301,0,0
+1603186997069,339,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-10,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,339,0,0
+1603186997115,293,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-5,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,293,0,0
+1603186997220,287,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-3,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,287,0,0
+1603186997316,360,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-4,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,360,0,0
+1603186997410,313,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-10,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,313,0,0
+1603186997410,319,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-5,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,319,0,0
+1603186997509,341,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-3,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,341,0,0
+1603186997399,662,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-9,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,410,0,0
+1603186997568,657,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-2,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,401,0,0
+1603186998076,280,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-9,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,280,0,0
+1603186997788,682,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-1,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,418,0,0
+1603186998029,440,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-6,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,402,0,0
+1603186997678,825,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-4,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,415,0,0
+1603186997678,415,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-4,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,415,0,0
+1603186998094,409,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-4,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,388,0,0
+1603186985630,1934,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,98474,5744,10,10,null,1485,10939,0
+1603186998241,368,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-2,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,368,0,0
+1603186997730,885,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-5,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,433,0,0
+1603186997730,433,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-5,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,433,0,0
+1603186998163,452,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-5,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,413,0,0
+1603186985734,1975,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,98474,5744,10,10,null,1490,10912,0
+1603186997930,690,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-8,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,367,0,0
+1603186997852,837,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-3,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,397,0,0
+1603186997852,397,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-3,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,397,0,0
+1603186998250,439,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-3,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,417,0,0
+1603186985798,1993,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,98474,5744,10,10,null,1478,10898,0
+1603186998357,341,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-9,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,341,0,0
+1603186998492,278,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-1,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,278,0,0
+1603186998494,282,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-6,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,282,0,0
+1603186998121,675,GOTO POLICY HOLDER PAGE,200,OK,Thread Group 1-7,text,true,,47226,841,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,407,0,0
+1603186997724,1162,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-10,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,491,0,0
+1603186997724,491,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-10,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,491,0,0
+1603186998216,670,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-10,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,416,0,0
+1603186985551,2472,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,98474,5744,10,10,null,1528,10864,0
+1603186998612,341,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-2,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,341,0,0
+1603186998635,319,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-8,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,319,0,0
+1603186998771,315,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-1,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,315,0,0
+1603186998802,381,SHOW RISK QUILIFIER POPUP,200,OK,Thread Group 1-7,text,true,,464,880,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/ShowRiskPopUp?showPopUp=false,381,0,0
+1603186998777,407,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-6,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,407,0,0
+1603186998955,1268,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-8,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,1267,0,0
+1603186998504,1813,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-4,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1813,0,0
+1603186999186,1206,GOTO RISK QUILIFIER POPUP ,200,OK,Thread Group 1-7,text,true,,2947,775,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Index?_=1602161012267,1205,0,0
+1603186998622,1874,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-5,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1874,0,0
+1603186998690,1824,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-3,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1824,0,0
+1603186998888,1751,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-10,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1751,0,0
+1603187000321,455,GOTO PROPERTY PAGE,200,OK,Thread Group 1-4,text,true,,22944,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,445,0,0
+1603186998503,2268,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,23476,3187,10,10,null,2258,4,0
+1603186998699,2091,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-9,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,456,0,0
+1603186998699,456,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-9,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,456,0,0
+1603186999157,1633,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-9,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,1298,0,0
+1603186986551,3374,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,98474,5744,10,10,null,1487,10865,0
+1603187000498,446,GOTO PROPERTY PAGE,200,OK,Thread Group 1-5,text,true,,22949,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,425,0,0
+1603186998621,2320,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,23481,3187,10,10,null,2299,2,0
+1603187000516,489,GOTO PROPERTY PAGE,200,OK,Thread Group 1-3,text,true,,22947,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,469,0,0
+1603186998689,2313,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,23479,3187,10,10,null,2293,3,0
+1603186999186,2054,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-6,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,1308,0,0
+1603186999186,1308,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-6,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,1308,0,0
+1603187000495,745,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-6,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,574,0,0
+1603186987131,3183,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,98474,5744,10,10,null,2399,10926,0
+1603186998954,2298,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-2,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,1323,0,0
+1603186998954,1324,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-2,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,1323,0,0
+1603187000279,973,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-2,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,414,0,0
+1603186986712,3664,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,98474,5744,10,10,null,2433,10875,0
+1603187000643,849,GOTO PROPERTY PAGE,200,OK,Thread Group 1-10,text,true,,22945,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,820,0,0
+1603186998887,2600,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,23477,3187,10,10,null,2571,4,0
+1603186999088,2425,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-1,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,1261,0,0
+1603186999088,1261,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-1,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,1261,0,0
+1603187000349,1164,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-1,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,468,0,0
+1603186986961,3700,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,98474,5744,10,10,null,2272,10851,0
+1603187000226,2130,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-8,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,547,0,0
+1603187000226,547,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-8,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,547,0,0
+1603187000774,1582,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-8,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,807,0,0
+1603186987028,4407,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,98474,5744,10,10,null,2500,10921,0
+1603187000779,1814,SAVE PROPERTY PAGE,200,OK,Thread Group 1-4,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,1814,0,0
+1603187000792,1818,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-9,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1818,0,0
+1603187000945,1665,SAVE PROPERTY PAGE,200,OK,Thread Group 1-5,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,1665,0,0
+1603187001007,1606,SAVE PROPERTY PAGE,200,OK,Thread Group 1-3,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,1606,0,0
+1603187000393,2324,SAVE RISK QUILIFIER POPUP,200,OK,Thread Group 1-7,text,true,,47837,3248,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,490,0,0
+1603187000393,490,SAVE RISK QUILIFIER POPUP-0,302,Found,Thread Group 1-7,text,true,,611,2291,10,10,https://uat.cogitate.us/GnC.POS/HO3/RiskQualifiers/Save,490,0,0
+1603187000883,1834,SAVE RISK QUILIFIER POPUP-1,200,OK,Thread Group 1-7,text,true,,47226,957,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder,892,0,0
+1603186987198,4586,APPLICATION CREATION,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,98474,5744,10,10,null,2483,10933,0
+1603187001242,2382,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-6,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,2382,0,0
+1603187002594,1079,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-4,text,true,,20712,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1066,0,0
+1603187002612,1145,GOTO PROPERTY PAGE,200,OK,Thread Group 1-9,text,true,,22948,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,1134,0,0
+1603187000791,2963,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,23480,3187,10,10,null,2952,3,0
+1603187002612,1166,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-5,text,true,,20710,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1158,0,0
+1603187002614,1208,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-3,text,true,,20711,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1198,0,0
+1603187001493,2471,SAVE PROPERTY PAGE,200,OK,Thread Group 1-10,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2471,0,0
+1603187001253,2771,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-2,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,2771,0,0
+1603187003626,436,GOTO PROPERTY PAGE,200,OK,Thread Group 1-6,text,true,,22946,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,424,0,0
+1603187001241,2818,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,23478,3187,10,10,null,2806,3,0
+1603187001514,2718,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-1,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,2718,0,0
+1603187003965,329,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-10,text,true,,20715,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,321,0,0
+1603187002358,1970,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-8,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,1970,0,0
+1603187004025,379,GOTO PROPERTY PAGE,200,OK,Thread Group 1-2,text,true,,22943,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,365,0,0
+1603187001252,3150,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,23475,3187,10,10,null,3136,2,0
+1603187004328,425,GOTO PROPERTY PAGE,200,OK,Thread Group 1-8,text,true,,22948,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,413,0,0
+1603187002357,2395,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,23480,3187,10,10,null,2383,2,0
+1603187002719,3001,SAVE POLICY HOLDER PAGE,200,OK,Thread Group 1-7,text,true,,532,2337,10,10,https://uat.cogitate.us/GnC.POS/HO3/PolicyHolder/SavePolicyHolder,3001,0,0
+1603187003758,2274,SAVE PROPERTY PAGE,200,OK,Thread Group 1-9,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2274,0,0
+1603187003675,2357,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-4,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,2357,0,0
+1603187003780,2267,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-5,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,2267,0,0
+1603187003824,2246,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-3,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,2246,0,0
+1603187004063,2089,SAVE PROPERTY PAGE,200,OK,Thread Group 1-6,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2089,0,0
+1603187004233,2039,GOTO PROPERTY PAGE,200,OK,Thread Group 1-1,text,true,,22948,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,1784,0,1367
+1603187001514,4757,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,23480,3187,10,10,null,4502,2,1367
+1603187004294,2091,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-10,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,2091,0,0
+1603187004404,2944,SAVE PROPERTY PAGE,200,OK,Thread Group 1-2,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2943,0,1146
+1603187004754,2634,SAVE PROPERTY PAGE,200,OK,Thread Group 1-8,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2634,0,878
+1603187005720,1844,GOTO PROPERTY PAGE,200,OK,Thread Group 1-7,text,true,,22944,850,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/Index,1607,0,1058
+1603187002718,4845,SAVE POLICY HOLDER PAGE,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,23476,3187,10,10,null,4608,2,1058
+1603187006153,2257,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-6,text,true,,20720,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1640,0,1087
+1603187006273,2265,SAVE PROPERTY PAGE,200,OK,Thread Group 1-1,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,2265,0,0
+1603187006032,2552,GOTO COVERAGE PAGE,200,OK,Thread Group 1-4,text,true,,30271,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,1977,0,1208
+1603187000777,7802,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,51923,4557,10,10,null,7214,6,1208
+1603187006032,2662,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-9,text,true,,20713,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1480,0,1115
+1603187007348,1403,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-2,text,true,,20715,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,906,0,0
+1603187006386,2480,GOTO COVERAGE PAGE,200,OK,Thread Group 1-10,text,true,,30268,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,2101,0,1129
+1603187001492,7371,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,51923,4557,10,10,null,6984,4,1129
+1603187008540,520,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-1,text,true,,20706,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,502,0,0
+1603187006070,3017,GOTO COVERAGE PAGE,200,OK,Thread Group 1-3,text,true,,30272,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,3002,0,1170
+1603187001006,8077,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,51923,4557,10,10,null,8052,6,1170
+1603187007389,1733,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-8,text,true,,20712,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,1727,0,0
+1603187007565,1757,SAVE PROPERTY PAGE,200,OK,Thread Group 1-7,text,true,,470,1506,10,10,https://uat.cogitate.us/GnC.POS/HO3/Property/SaveProperty,1756,0,0
+1603187006048,3532,GOTO COVERAGE PAGE,200,OK,Thread Group 1-5,text,true,,30268,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,3521,0,2355
+1603187000944,8630,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,51918,4557,10,10,null,8611,8,2355
+1603187009323,799,GOTO OCCUPANCY PAGE,200,OK,Thread Group 1-7,text,true,,20711,853,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/Index,793,0,0
+1603187008412,1855,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-6,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,1855,0,0
+1603187008695,1867,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-9,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,1867,0,0
+1603187008752,1832,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-2,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,1832,0,0
+1603187010267,532,GOTO COVERAGE PAGE,200,OK,Thread Group 1-6,text,true,,30271,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,492,0,0
+1603187004062,6733,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,51931,4557,10,10,null,6076,5,1087
+1603187009061,1981,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-1,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,1981,0,0
+1603187010564,484,GOTO COVERAGE PAGE,200,OK,Thread Group 1-9,text,true,,30274,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,463,0,0
+1603187003757,7287,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,51927,4557,10,10,null,6084,6,1115
+1603187009123,2002,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-8,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,2002,0,0
+1603187010585,691,GOTO COVERAGE PAGE,200,OK,Thread Group 1-2,text,true,,30271,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,380,0,0
+1603187004403,6870,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,51926,4557,10,10,null,6061,3,1146
+1603187011044,476,GOTO COVERAGE PAGE,200,OK,Thread Group 1-1,text,true,,30274,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,419,0,0
+1603187006272,5242,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,51920,4557,10,10,null,5167,7,0
+1603187011127,476,GOTO COVERAGE PAGE,200,OK,Thread Group 1-8,text,true,,30275,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,445,0,0
+1603187004754,6845,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,51927,4557,10,10,null,6808,4,878
+1603187010128,1727,SAVE OCCUPANCY PAGE,200,OK,Thread Group 1-7,text,true,,470,1344,10,10,https://uat.cogitate.us/GnC.POS/HO3/Occupancy/SaveOccupancy,1727,0,0
+1603187011857,672,GOTO COVERAGE PAGE,200,OK,Thread Group 1-7,text,true,,30268,854,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/Index,425,0,0
+1603187007565,4955,SAVE PROPERTY AND OCCUPANCY PAGE,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,51919,4557,10,10,null,4701,9,0
+1603187017265,5391,SAVE COVERAGE PAGE,200,OK,Thread Group 1-9,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,5391,0,0
+1603187011049,5391,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,616,4482,10,10,null,5391,6216,0
+1603187015082,7696,SAVE COVERAGE PAGE,200,OK,Thread Group 1-10,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7696,0,0
+1603187008866,7696,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,616,4482,10,10,null,7696,6216,0
+1603187015774,7042,SAVE COVERAGE PAGE,200,OK,Thread Group 1-5,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7042,0,0
+1603187009581,7042,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,616,4482,10,10,null,7042,6193,0
+1603187016981,5870,SAVE COVERAGE PAGE,200,OK,Thread Group 1-6,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,5870,0,0
+1603187010800,5870,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,616,4482,10,10,null,5870,6181,0
+1603187017506,5346,SAVE COVERAGE PAGE,200,OK,Thread Group 1-2,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,5346,0,0
+1603187011276,5346,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,616,4482,10,10,null,5346,6229,0
+1603187014836,8025,SAVE COVERAGE PAGE,200,OK,Thread Group 1-4,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,8025,0,0
+1603187015301,7561,SAVE COVERAGE PAGE,200,OK,Thread Group 1-3,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,7561,0,0
+1603187008584,8025,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,616,4482,10,10,null,8025,6252,0
+1603187009088,7561,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,616,4482,10,10,null,7561,6212,0
+1603187017801,6082,SAVE COVERAGE PAGE,200,OK,Thread Group 1-8,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,6082,0,0
+1603187011603,6082,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,616,4482,10,10,null,6082,6198,0
+1603187017780,6260,SAVE COVERAGE PAGE,200,OK,Thread Group 1-1,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,6260,0,0
+1603187011521,6260,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,616,4482,10,10,null,6260,6259,0
+1603187018722,5397,SAVE COVERAGE PAGE,200,OK,Thread Group 1-7,text,true,,616,4482,10,10,https://uat.cogitate.us/GnC.POS/HO3/Coverages/SaveCoveragesAndRate,5397,0,0
+1603187012529,5397,SAVE COVERAGE PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,616,4482,10,10,null,5397,6192,0
+1603187022656,1588,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-9,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,1574,0,0
+1603187022656,1588,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,26251,826,10,10,null,1574,1,0
+1603187022779,1515,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-10,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,1500,0,0
+1603187022778,1515,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,26251,826,10,10,null,1500,2,0
+1603187022817,1808,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-5,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,1790,0,0
+1603187022816,1808,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,26251,826,10,10,null,1790,2,0
+1603187022862,2386,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-4,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,2347,0,0
+1603187022861,2386,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,26251,826,10,10,null,2347,1,0
+1603187022852,2468,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-2,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,2434,0,0
+1603187022852,2468,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,26251,826,10,10,null,2434,0,0
+1603187022851,2551,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-6,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,2514,0,0
+1603187022851,2551,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,26251,826,10,10,null,2514,1,0
+1603187023884,1938,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-8,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,1929,0,0
+1603187023883,1938,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,26251,826,10,10,null,1929,2,0
+1603187022862,3126,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-3,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,3059,0,0
+1603187022861,3126,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,26251,826,10,10,null,3059,2,0
+1603187024245,2555,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-9,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2517,0,0
+1603187024245,2555,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,28181,846,10,10,null,2517,0,0
+1603187024041,2911,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-1,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,2846,0,0
+1603187024040,2911,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,26251,826,10,10,null,2846,1,0
+1603187024295,2757,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-10,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2738,0,0
+1603187024295,2757,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,28181,846,10,10,null,2738,1,0
+1603187024119,3005,GOTO APPLICATION SUMMARY PAGE,200,OK,Thread Group 1-7,text,true,,26251,826,10,10,https://uat.cogitate.us/GnC.POS/HO3/Summary,2715,0,0
+1603187024119,3005,APPLICATION SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,26251,826,10,10,null,2715,1,0
+1603187025403,2151,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-6,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2119,0,0
+1603187025403,2151,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,28181,846,10,10,null,2119,1,0
+1603187024626,2984,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-5,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2936,0,0
+1603187024626,2984,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,28181,846,10,10,null,2936,1,0
+1603187025249,2442,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-4,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2400,0,0
+1603187025249,2442,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,28181,846,10,10,null,2400,0,0
+1603187025824,2098,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-8,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2025,0,0
+1603187025823,2098,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,28181,846,10,10,null,2025,2,0
+1603187025321,2799,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-2,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2749,0,0
+1603187025321,2799,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,28181,846,10,10,null,2749,1,0
+1603187026953,1371,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-1,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,1335,0,0
+1603187026952,1371,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,28181,846,10,10,null,1335,1,0
+1603187025989,2539,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-3,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,2244,0,0
+1603187025989,2539,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,28181,846,10,10,null,2244,1,0
+1603187027127,1507,GOTO APPLICATION FORM SUMMARY PAGE,200,OK,Thread Group 1-7,text,true,,28181,846,10,10,https://uat.cogitate.us/GnC.POS/HO3/ApplicationForm,1241,0,0
+1603187027125,1507,APPLICATION FORM SUMMARY PAGE,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,28181,846,10,10,null,1241,2,0
+1603187035088,106548,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-9,text,false,,3966,992,10,10,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,106548,0,0
+1603187035866,105803,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-6,text,false,,3966,992,10,10,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,105803,0,0
+1603187141670,1549,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-6,text,true,,19876,825,10,10,https://uat.cogitate.us/GnC.POS/HO3/Policy,1290,0,960
+1603187027555,107352,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-6,,false,,23842,1817,10,10,null,107093,8321,960
+1603187141640,1658,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-9,text,true,,19879,825,9,9,https://uat.cogitate.us/GnC.POS/HO3/Policy,1400,0,1086
+1603187026801,108207,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-9,,false,,23845,1817,9,9,null,107948,8297,1086
+1603187036867,117127,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-3,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,117127,0,0
+1603187036014,118002,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-4,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,118002,0,0
+1603187036980,117046,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-7,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,117046,0,0
+1603187035398,118999,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-10,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,118999,0,0
+1603187036503,117956,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-2,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,117956,0,0
+1603187036697,117766,CLICK GNERATE POLICY BUTTON,500,Internal Server Error,Thread Group 1-1,text,false,,3966,992,8,8,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,117766,0,0
+1603187154027,1439,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-7,text,true,,19869,825,8,8,https://uat.cogitate.us/GnC.POS/HO3/Policy,1173,0,845
+1603187028634,118485,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-7,,false,,23835,1817,8,8,null,118219,8353,845
+1603187153995,1562,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-3,text,true,,19873,825,7,7,https://uat.cogitate.us/GnC.POS/HO3/Policy,1290,0,867
+1603187028529,118689,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-3,,false,,23839,1817,7,7,null,118417,8345,867
+1603187154018,1779,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-4,text,true,,19878,825,6,6,https://uat.cogitate.us/GnC.POS/HO3/Policy,1504,0,865
+1603187027691,119781,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-4,,false,,23844,1817,6,6,null,119506,8333,865
+1603187154461,1569,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-2,text,true,,19880,825,5,5,https://uat.cogitate.us/GnC.POS/HO3/Policy,1326,0,896
+1603187028121,119525,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-2,,false,,23846,1817,5,5,null,119282,8389,896
+1603187154398,2073,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-10,text,true,,19877,825,4,4,https://uat.cogitate.us/GnC.POS/HO3/Policy,1827,0,1063
+1603187027053,121072,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-10,,false,,23843,1817,4,4,null,120826,8353,1063
+1603187154464,2044,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-1,text,true,,19878,825,3,3,https://uat.cogitate.us/GnC.POS/HO3/Policy,1776,0,1039
+1603187028324,119810,CREATE POLICY USING GENERATE QUOTE BUTTON,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,23844,1817,3,3,null,119542,8382,1039
+1603187036255,123085,CLICK GNERATE POLICY BUTTON,200,OK,Thread Group 1-8,text,true,,548,992,2,2,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,123085,0,0
+1603187159341,1950,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-8,text,true,,19874,825,2,2,https://uat.cogitate.us/GnC.POS/HO3/Policy,1699,0,863
+1603187027923,125035,CREATE POLICY USING GENERATE QUOTE BUTTON,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,20422,1817,2,2,null,124784,8351,863
+1603187035938,127293,CLICK GNERATE POLICY BUTTON,200,OK,Thread Group 1-5,text,true,,548,992,1,1,https://uat.cogitate.us/GnC.POS/ApplicationForm/GeneratePolicyForms,127293,0,0
+1603187163232,1588,GOTO VIEW POLICY PAGE,200,OK,Thread Group 1-5,text,true,,19875,825,1,1,https://uat.cogitate.us/GnC.POS/HO3/Policy,1331,0,893
+1603187027611,128881,CREATE POLICY USING GENERATE QUOTE BUTTON,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,20423,1817,1,1,null,128624,8334,893
